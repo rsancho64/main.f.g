@@ -6,7 +6,7 @@ int masDos(int x)
 
 int porDos(int y)
 {
-    localf = masDos(y);
+    int localf = masDos(y);
     return localf;
 }
 
